@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Singleton_Customer_MVC/1.0.0": {
+        "runtime": {
+          "Singleton_Customer_MVC.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Singleton_Customer_MVC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+<a href="/customer/Insert/">Create New</a>
+@{
+    List<Customer> customers = (List<Customer>)ViewData["customerList"];
+    foreach (var customer in customers)
+    {
+        <p>@customer.Name   <a href="/customer/details/@customer.Id">Details</a> | <a href="/customer/update/@customer.Id">Update</a> |  <a href="/customer/remove/@customer.Id">Remove</a></p>
+    }
+}

@@ -1,0 +1,29 @@
+﻿@model Singleton_Customer_MVC.Models.Customer;
+
+
+<h2>Update Existing Product</h2>
+<form method="post">
+    <div>
+        <div class="form-group">
+            <label class="control-label">Id</label>
+            <input asp-for="Id" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label class="control-label">Name</label>
+            <input asp-for="Name" class="form-control" />
+        </div>
+
+        <div class="form-group">
+            <label class="control-label">Email</label>
+            <input asp-for="Email" class="form-control" />
+        </div>
+
+        <div class="form-group">
+            <label class="control-label">Phone</label>
+            <input asp-for="Phone" class="form-control" />
+        </div>
+
+        <button type="submit" class="btn btn-primary">Update</button>
+
+    </div>
+</form>

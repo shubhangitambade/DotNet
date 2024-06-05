@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Singleton_Customer_MVC.props" />
+</Project>

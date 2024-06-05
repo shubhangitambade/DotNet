@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dotnet_Shubh\\TFLCommerece_30may2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED8390F9-557F-422B-A87A-1A6524A4F176}|Singleton_Customer_MVC\\Singleton_Customer_MVC.csproj|c:\\dotnet_shubh\\tflcommerece_30may2024\\singleton_customer_mvc\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED8390F9-557F-422B-A87A-1A6524A4F176}|Singleton_Customer_MVC\\Singleton_Customer_MVC.csproj|solutionrelative:singleton_customer_mvc\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED8390F9-557F-422B-A87A-1A6524A4F176}|Singleton_Customer_MVC\\Singleton_Customer_MVC.csproj|c:\\dotnet_shubh\\tflcommerece_30may2024\\singleton_customer_mvc\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED8390F9-557F-422B-A87A-1A6524A4F176}|Singleton_Customer_MVC\\Singleton_Customer_MVC.csproj|solutionrelative:singleton_customer_mvc\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED8390F9-557F-422B-A87A-1A6524A4F176}|Singleton_Customer_MVC\\Singleton_Customer_MVC.csproj|c:\\dotnet_shubh\\tflcommerece_30may2024\\singleton_customer_mvc\\service\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED8390F9-557F-422B-A87A-1A6524A4F176}|Singleton_Customer_MVC\\Singleton_Customer_MVC.csproj|solutionrelative:singleton_customer_mvc\\service\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED8390F9-557F-422B-A87A-1A6524A4F176}|Singleton_Customer_MVC\\Singleton_Customer_MVC.csproj|c:\\dotnet_shubh\\tflcommerece_30may2024\\singleton_customer_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED8390F9-557F-422B-A87A-1A6524A4F176}|Singleton_Customer_MVC\\Singleton_Customer_MVC.csproj|solutionrelative:singleton_customer_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEBA0F62-AE3E-4232-987C-D8B192A9AD90}|TFLCommerece_30may2024\\TFLCommerece_30may2024.csproj|c:\\dotnet_shubh\\tflcommerece_30may2024\\tflcommerece_30may2024\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEBA0F62-AE3E-4232-987C-D8B192A9AD90}|TFLCommerece_30may2024\\TFLCommerece_30may2024.csproj|solutionrelative:tflcommerece_30may2024\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEBA0F62-AE3E-4232-987C-D8B192A9AD90}|TFLCommerece_30may2024\\TFLCommerece_30may2024.csproj|c:\\dotnet_shubh\\tflcommerece_30may2024\\tflcommerece_30may2024\\repository\\customerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEBA0F62-AE3E-4232-987C-D8B192A9AD90}|TFLCommerece_30may2024\\TFLCommerece_30may2024.csproj|solutionrelative:tflcommerece_30may2024\\repository\\customerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED8390F9-557F-422B-A87A-1A6524A4F176}|Singleton_Customer_MVC\\Singleton_Customer_MVC.csproj|c:\\dotnet_shubh\\tflcommerece_30may2024\\singleton_customer_mvc\\views\\customer\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED8390F9-557F-422B-A87A-1A6524A4F176}|Singleton_Customer_MVC\\Singleton_Customer_MVC.csproj|solutionrelative:singleton_customer_mvc\\views\\customer\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED8390F9-557F-422B-A87A-1A6524A4F176}|Singleton_Customer_MVC\\Singleton_Customer_MVC.csproj|c:\\dotnet_shubh\\tflcommerece_30may2024\\singleton_customer_mvc\\views\\customer\\insert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED8390F9-557F-422B-A87A-1A6524A4F176}|Singleton_Customer_MVC\\Singleton_Customer_MVC.csproj|solutionrelative:singleton_customer_mvc\\views\\customer\\insert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED8390F9-557F-422B-A87A-1A6524A4F176}|Singleton_Customer_MVC\\Singleton_Customer_MVC.csproj|c:\\dotnet_shubh\\tflcommerece_30may2024\\singleton_customer_mvc\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED8390F9-557F-422B-A87A-1A6524A4F176}|Singleton_Customer_MVC\\Singleton_Customer_MVC.csproj|solutionrelative:singleton_customer_mvc\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Dotnet_Shubh\\TFLCommerece_30may2024\\TFLCommerece_30may2024\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "TFLCommerece_30may2024\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Dotnet_Shubh\\TFLCommerece_30may2024\\TFLCommerece_30may2024\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "TFLCommerece_30may2024\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T06:22:34.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Dotnet_Shubh\\TFLCommerece_30may2024\\Singleton_Customer_MVC\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Singleton_Customer_MVC\\Models\\Customer.cs",
+              "ToolTip": "C:\\Dotnet_Shubh\\TFLCommerece_30may2024\\Singleton_Customer_MVC\\Models\\Customer.cs",
+              "RelativeToolTip": "Singleton_Customer_MVC\\Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T12:32:28.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Dotnet_Shubh\\TFLCommerece_30may2024\\Singleton_Customer_MVC\\Views\\Customer\\Index.cshtml",
+              "RelativeDocumentMoniker": "Singleton_Customer_MVC\\Views\\Customer\\Index.cshtml",
+              "ToolTip": "C:\\Dotnet_Shubh\\TFLCommerece_30may2024\\Singleton_Customer_MVC\\Views\\Customer\\Index.cshtml",
+              "RelativeToolTip": "Singleton_Customer_MVC\\Views\\Customer\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T12:29:02.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Dotnet_Shubh\\TFLCommerece_30may2024\\Singleton_Customer_MVC\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Singleton_Customer_MVC\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Dotnet_Shubh\\TFLCommerece_30may2024\\Singleton_Customer_MVC\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Singleton_Customer_MVC\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T12:05:10.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Dotnet_Shubh\\TFLCommerece_30may2024\\Singleton_Customer_MVC\\Service\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Singleton_Customer_MVC\\Service\\CustomerService.cs",
+              "ToolTip": "C:\\Dotnet_Shubh\\TFLCommerece_30may2024\\Singleton_Customer_MVC\\Service\\CustomerService.cs",
+              "RelativeToolTip": "Singleton_Customer_MVC\\Service\\CustomerService.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAowCcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T12:21:58.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Dotnet_Shubh\\TFLCommerece_30may2024\\Singleton_Customer_MVC\\Program.cs",
+              "RelativeDocumentMoniker": "Singleton_Customer_MVC\\Program.cs",
+              "ToolTip": "C:\\Dotnet_Shubh\\TFLCommerece_30may2024\\Singleton_Customer_MVC\\Program.cs",
+              "RelativeToolTip": "Singleton_Customer_MVC\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T12:18:21.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Dotnet_Shubh\\TFLCommerece_30may2024\\Singleton_Customer_MVC\\Views\\Customer\\Update.cshtml",
+              "RelativeDocumentMoniker": "Singleton_Customer_MVC\\Views\\Customer\\Update.cshtml",
+              "ToolTip": "C:\\Dotnet_Shubh\\TFLCommerece_30may2024\\Singleton_Customer_MVC\\Views\\Customer\\Update.cshtml",
+              "RelativeToolTip": "Singleton_Customer_MVC\\Views\\Customer\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T12:11:36.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Insert.cshtml",
+              "DocumentMoniker": "C:\\Dotnet_Shubh\\TFLCommerece_30may2024\\Singleton_Customer_MVC\\Views\\Customer\\Insert.cshtml",
+              "RelativeDocumentMoniker": "Singleton_Customer_MVC\\Views\\Customer\\Insert.cshtml",
+              "ToolTip": "C:\\Dotnet_Shubh\\TFLCommerece_30may2024\\Singleton_Customer_MVC\\Views\\Customer\\Insert.cshtml",
+              "RelativeToolTip": "Singleton_Customer_MVC\\Views\\Customer\\Insert.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T05:50:33.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerRepo.cs",
+              "DocumentMoniker": "C:\\Dotnet_Shubh\\TFLCommerece_30may2024\\TFLCommerece_30may2024\\Repository\\CustomerRepo.cs",
+              "RelativeDocumentMoniker": "TFLCommerece_30may2024\\Repository\\CustomerRepo.cs",
+              "ToolTip": "C:\\Dotnet_Shubh\\TFLCommerece_30may2024\\TFLCommerece_30may2024\\Repository\\CustomerRepo.cs",
+              "RelativeToolTip": "TFLCommerece_30may2024\\Repository\\CustomerRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwBsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T06:32:33.115Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\TFLCommerece_30may2024.props" />
+</Project>
