@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dotnet_Shubh\\MVC_DBContext_Customer\\MVC_DBContext_Singleton\\MVC_DBContext_Singleton.csproj": {}
+    "C:\\DotNet\\MVC_DBContext_Customer\\MVC_DBContext_Singleton\\MVC_DBContext_Singleton.csproj": {}
   },
   "projects": {
-    "C:\\Dotnet_Shubh\\MVC_DBContext_Customer\\MVC_DBContext_Singleton\\MVC_DBContext_Singleton.csproj": {
+    "C:\\DotNet\\MVC_DBContext_Customer\\MVC_DBContext_Singleton\\MVC_DBContext_Singleton.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dotnet_Shubh\\MVC_DBContext_Customer\\MVC_DBContext_Singleton\\MVC_DBContext_Singleton.csproj",
+        "projectUniqueName": "C:\\DotNet\\MVC_DBContext_Customer\\MVC_DBContext_Singleton\\MVC_DBContext_Singleton.csproj",
         "projectName": "MVC_DBContext_Singleton",
-        "projectPath": "C:\\Dotnet_Shubh\\MVC_DBContext_Customer\\MVC_DBContext_Singleton\\MVC_DBContext_Singleton.csproj",
+        "projectPath": "C:\\DotNet\\MVC_DBContext_Customer\\MVC_DBContext_Singleton\\MVC_DBContext_Singleton.csproj",
         "packagesPath": "C:\\Users\\TLF03\\.nuget\\packages\\",
-        "outputPath": "C:\\Dotnet_Shubh\\MVC_DBContext_Customer\\MVC_DBContext_Singleton\\obj\\",
+        "outputPath": "C:\\DotNet\\MVC_DBContext_Customer\\MVC_DBContext_Singleton\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -2460,11 +2460,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dotnet_Shubh\\MVC_DBContext_Customer\\MVC_DBContext_Customer\\MVC_DBContext_Customer.csproj",
+      "projectUniqueName": "C:\\DotNet\\MVC_DBContext_Customer\\MVC_DBContext_Customer\\MVC_DBContext_Customer.csproj",
       "projectName": "MVC_DBContext_Customer",
-      "projectPath": "C:\\Dotnet_Shubh\\MVC_DBContext_Customer\\MVC_DBContext_Customer\\MVC_DBContext_Customer.csproj",
+      "projectPath": "C:\\DotNet\\MVC_DBContext_Customer\\MVC_DBContext_Customer\\MVC_DBContext_Customer.csproj",
       "packagesPath": "C:\\Users\\TLF03\\.nuget\\packages\\",
-      "outputPath": "C:\\Dotnet_Shubh\\MVC_DBContext_Customer\\MVC_DBContext_Customer\\obj\\",
+      "outputPath": "C:\\DotNet\\MVC_DBContext_Customer\\MVC_DBContext_Customer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

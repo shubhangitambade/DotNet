@@ -1,0 +1,10 @@
+﻿@using Tempdata_MVC.Models;
+
+@{
+    ViewBag.Title = "About";
+}
+
+@{
+    Customer cust = (Customer)ViewData["customer"];
+    <p>Customer Nmae : @cust.CustomerName</p>
+}

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MVC_DBContext_Singleton")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2cea222206e5ff641fa7e55e16b1dceaba17ef54")]
 [assembly: System.Reflection.AssemblyProductAttribute("MVC_DBContext_Singleton")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MVC_DBContext_Singleton")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,18 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Dotnet_Shubh\\MVC_DBContext_Customer\\",
+  "WorkspaceRootPath": "C:\\DotNet\\MVC_DBContext_Customer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8F3B0495-A23E-402E-95CB-774F54D567DF}|MVC_DBContext_Customer\\MVC_DBContext_Customer.csproj|c:\\dotnet_shubh\\mvc_dbcontext_customer\\mvc_dbcontext_customer\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F3B0495-A23E-402E-95CB-774F54D567DF}|MVC_DBContext_Customer\\MVC_DBContext_Customer.csproj|solutionrelative:mvc_dbcontext_customer\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8F3B0495-A23E-402E-95CB-774F54D567DF}|MVC_DBContext_Customer\\MVC_DBContext_Customer.csproj|c:\\dotnet\\mvc_dbcontext_customer\\mvc_dbcontext_customer\\dbcontext\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F3B0495-A23E-402E-95CB-774F54D567DF}|MVC_DBContext_Customer\\MVC_DBContext_Customer.csproj|solutionrelative:mvc_dbcontext_customer\\dbcontext\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F3B0495-A23E-402E-95CB-774F54D567DF}|MVC_DBContext_Customer\\MVC_DBContext_Customer.csproj|c:\\dotnet_shubh\\mvc_dbcontext_customer\\mvc_dbcontext_customer\\repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8F3B0495-A23E-402E-95CB-774F54D567DF}|MVC_DBContext_Customer\\MVC_DBContext_Customer.csproj|c:\\dotnet\\mvc_dbcontext_customer\\mvc_dbcontext_customer\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F3B0495-A23E-402E-95CB-774F54D567DF}|MVC_DBContext_Customer\\MVC_DBContext_Customer.csproj|solutionrelative:mvc_dbcontext_customer\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3B0495-A23E-402E-95CB-774F54D567DF}|MVC_DBContext_Customer\\MVC_DBContext_Customer.csproj|c:\\dotnet\\mvc_dbcontext_customer\\mvc_dbcontext_customer\\views\\employee\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F3B0495-A23E-402E-95CB-774F54D567DF}|MVC_DBContext_Customer\\MVC_DBContext_Customer.csproj|solutionrelative:mvc_dbcontext_customer\\views\\employee\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3B0495-A23E-402E-95CB-774F54D567DF}|MVC_DBContext_Customer\\MVC_DBContext_Customer.csproj|c:\\dotnet\\mvc_dbcontext_customer\\mvc_dbcontext_customer\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F3B0495-A23E-402E-95CB-774F54D567DF}|MVC_DBContext_Customer\\MVC_DBContext_Customer.csproj|solutionrelative:mvc_dbcontext_customer\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3B0495-A23E-402E-95CB-774F54D567DF}|MVC_DBContext_Customer\\MVC_DBContext_Customer.csproj|c:\\dotnet\\mvc_dbcontext_customer\\mvc_dbcontext_customer\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F3B0495-A23E-402E-95CB-774F54D567DF}|MVC_DBContext_Customer\\MVC_DBContext_Customer.csproj|solutionrelative:mvc_dbcontext_customer\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603ED601-D08C-45DC-AB6E-F8BE265BCBAC}|MVC_DBContext_Singleton\\MVC_DBContext_Singleton.csproj|c:\\dotnet\\mvc_dbcontext_customer\\mvc_dbcontext_singleton\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603ED601-D08C-45DC-AB6E-F8BE265BCBAC}|MVC_DBContext_Singleton\\MVC_DBContext_Singleton.csproj|solutionrelative:mvc_dbcontext_singleton\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3B0495-A23E-402E-95CB-774F54D567DF}|MVC_DBContext_Customer\\MVC_DBContext_Customer.csproj|c:\\dotnet\\mvc_dbcontext_customer\\mvc_dbcontext_customer\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F3B0495-A23E-402E-95CB-774F54D567DF}|MVC_DBContext_Customer\\MVC_DBContext_Customer.csproj|solutionrelative:mvc_dbcontext_customer\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3B0495-A23E-402E-95CB-774F54D567DF}|MVC_DBContext_Customer\\MVC_DBContext_Customer.csproj|c:\\dotnet\\mvc_dbcontext_customer\\mvc_dbcontext_customer\\repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F3B0495-A23E-402E-95CB-774F54D567DF}|MVC_DBContext_Customer\\MVC_DBContext_Customer.csproj|solutionrelative:mvc_dbcontext_customer\\repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F3B0495-A23E-402E-95CB-774F54D567DF}|MVC_DBContext_Customer\\MVC_DBContext_Customer.csproj|c:\\dotnet_shubh\\mvc_dbcontext_customer\\mvc_dbcontext_customer\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F3B0495-A23E-402E-95CB-774F54D567DF}|MVC_DBContext_Customer\\MVC_DBContext_Customer.csproj|solutionrelative:mvc_dbcontext_customer\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8F3B0495-A23E-402E-95CB-774F54D567DF}|MVC_DBContext_Customer\\MVC_DBContext_Customer.csproj|c:\\dotnet\\mvc_dbcontext_customer\\mvc_dbcontext_customer\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F3B0495-A23E-402E-95CB-774F54D567DF}|MVC_DBContext_Customer\\MVC_DBContext_Customer.csproj|solutionrelative:mvc_dbcontext_customer\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,39 +54,114 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EmployeeController.cs",
-              "DocumentMoniker": "C:\\Dotnet_Shubh\\MVC_DBContext_Customer\\MVC_DBContext_Customer\\Controllers\\EmployeeController.cs",
-              "RelativeDocumentMoniker": "MVC_DBContext_Customer\\Controllers\\EmployeeController.cs",
-              "ToolTip": "C:\\Dotnet_Shubh\\MVC_DBContext_Customer\\MVC_DBContext_Customer\\Controllers\\EmployeeController.cs",
-              "RelativeToolTip": "MVC_DBContext_Customer\\Controllers\\EmployeeController.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T06:18:00.932Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CustomerRepository.cs",
-              "DocumentMoniker": "C:\\Dotnet_Shubh\\MVC_DBContext_Customer\\MVC_DBContext_Customer\\Repository\\CustomerRepository.cs",
-              "RelativeDocumentMoniker": "MVC_DBContext_Customer\\Repository\\CustomerRepository.cs",
-              "ToolTip": "C:\\Dotnet_Shubh\\MVC_DBContext_Customer\\MVC_DBContext_Customer\\Repository\\CustomerRepository.cs",
-              "RelativeToolTip": "MVC_DBContext_Customer\\Repository\\CustomerRepository.cs",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\DotNet\\MVC_DBContext_Customer\\MVC_DBContext_Customer\\Views\\Employee\\Details.cshtml",
+              "RelativeDocumentMoniker": "MVC_DBContext_Customer\\Views\\Employee\\Details.cshtml",
+              "ToolTip": "C:\\DotNet\\MVC_DBContext_Customer\\MVC_DBContext_Customer\\Views\\Employee\\Details.cshtml",
+              "RelativeToolTip": "MVC_DBContext_Customer\\Views\\Employee\\Details.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T09:07:37.953Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T06:25:11.513Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\DotNet\\MVC_DBContext_Customer\\MVC_DBContext_Customer\\Views\\Employee\\Add.cshtml",
+              "RelativeDocumentMoniker": "MVC_DBContext_Customer\\Views\\Employee\\Add.cshtml",
+              "ToolTip": "C:\\DotNet\\MVC_DBContext_Customer\\MVC_DBContext_Customer\\Views\\Employee\\Add.cshtml",
+              "RelativeToolTip": "MVC_DBContext_Customer\\Views\\Employee\\Add.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAmwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T06:25:07.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\DotNet\\MVC_DBContext_Customer\\MVC_DBContext_Customer\\Repository\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "MVC_DBContext_Customer\\Repository\\EmployeeRepository.cs",
+              "ToolTip": "C:\\DotNet\\MVC_DBContext_Customer\\MVC_DBContext_Customer\\Repository\\EmployeeRepository.cs",
+              "RelativeToolTip": "MVC_DBContext_Customer\\Repository\\EmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T06:03:21.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeDBContext.cs",
+              "DocumentMoniker": "C:\\DotNet\\MVC_DBContext_Customer\\MVC_DBContext_Customer\\DBContext\\EmployeeDBContext.cs",
+              "RelativeDocumentMoniker": "MVC_DBContext_Customer\\DBContext\\EmployeeDBContext.cs",
+              "ToolTip": "C:\\DotNet\\MVC_DBContext_Customer\\MVC_DBContext_Customer\\DBContext\\EmployeeDBContext.cs",
+              "RelativeToolTip": "MVC_DBContext_Customer\\DBContext\\EmployeeDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T05:48:02.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\DotNet\\MVC_DBContext_Customer\\MVC_DBContext_Singleton\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVC_DBContext_Singleton\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\DotNet\\MVC_DBContext_Customer\\MVC_DBContext_Singleton\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVC_DBContext_Singleton\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T11:58:30.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\DotNet\\MVC_DBContext_Customer\\MVC_DBContext_Customer\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC_DBContext_Customer\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\DotNet\\MVC_DBContext_Customer\\MVC_DBContext_Customer\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "MVC_DBContext_Customer\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T07:22:52.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\DotNet\\MVC_DBContext_Customer\\MVC_DBContext_Customer\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "MVC_DBContext_Customer\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\DotNet\\MVC_DBContext_Customer\\MVC_DBContext_Customer\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "MVC_DBContext_Customer\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T06:18:00.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\DotNet\\MVC_DBContext_Customer\\MVC_DBContext_Customer\\Repository\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "MVC_DBContext_Customer\\Repository\\CustomerRepository.cs",
+              "ToolTip": "C:\\DotNet\\MVC_DBContext_Customer\\MVC_DBContext_Customer\\Repository\\CustomerRepository.cs",
+              "RelativeToolTip": "MVC_DBContext_Customer\\Repository\\CustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T09:07:37.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "CustomerController.cs",
-              "DocumentMoniker": "C:\\Dotnet_Shubh\\MVC_DBContext_Customer\\MVC_DBContext_Customer\\Controllers\\CustomerController.cs",
+              "DocumentMoniker": "C:\\DotNet\\MVC_DBContext_Customer\\MVC_DBContext_Customer\\Controllers\\CustomerController.cs",
               "RelativeDocumentMoniker": "MVC_DBContext_Customer\\Controllers\\CustomerController.cs",
-              "ToolTip": "C:\\Dotnet_Shubh\\MVC_DBContext_Customer\\MVC_DBContext_Customer\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\DotNet\\MVC_DBContext_Customer\\MVC_DBContext_Customer\\Controllers\\CustomerController.cs",
               "RelativeToolTip": "MVC_DBContext_Customer\\Controllers\\CustomerController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAArAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-04T09:07:14.578Z"
             }

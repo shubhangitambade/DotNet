@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DotNet\\Tempdata_MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4330A16D-2FB6-4379-BFD6-BBE98E3061F1}|Tempdata_MVC\\Tempdata_MVC.csproj|c:\\dotnet\\tempdata_mvc\\tempdata_mvc\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4330A16D-2FB6-4379-BFD6-BBE98E3061F1}|Tempdata_MVC\\Tempdata_MVC.csproj|solutionrelative:tempdata_mvc\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4330A16D-2FB6-4379-BFD6-BBE98E3061F1}|Tempdata_MVC\\Tempdata_MVC.csproj|c:\\dotnet\\tempdata_mvc\\tempdata_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4330A16D-2FB6-4379-BFD6-BBE98E3061F1}|Tempdata_MVC\\Tempdata_MVC.csproj|solutionrelative:tempdata_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4330A16D-2FB6-4379-BFD6-BBE98E3061F1}|Tempdata_MVC\\Tempdata_MVC.csproj|c:\\dotnet\\tempdata_mvc\\tempdata_mvc\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4330A16D-2FB6-4379-BFD6-BBE98E3061F1}|Tempdata_MVC\\Tempdata_MVC.csproj|solutionrelative:tempdata_mvc\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4330A16D-2FB6-4379-BFD6-BBE98E3061F1}|Tempdata_MVC\\Tempdata_MVC.csproj|c:\\dotnet\\tempdata_mvc\\tempdata_mvc\\views\\another\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4330A16D-2FB6-4379-BFD6-BBE98E3061F1}|Tempdata_MVC\\Tempdata_MVC.csproj|solutionrelative:tempdata_mvc\\views\\another\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4330A16D-2FB6-4379-BFD6-BBE98E3061F1}|Tempdata_MVC\\Tempdata_MVC.csproj|c:\\dotnet\\tempdata_mvc\\tempdata_mvc\\views\\home\\services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4330A16D-2FB6-4379-BFD6-BBE98E3061F1}|Tempdata_MVC\\Tempdata_MVC.csproj|solutionrelative:tempdata_mvc\\views\\home\\services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4330A16D-2FB6-4379-BFD6-BBE98E3061F1}|Tempdata_MVC\\Tempdata_MVC.csproj|c:\\dotnet\\tempdata_mvc\\tempdata_mvc\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4330A16D-2FB6-4379-BFD6-BBE98E3061F1}|Tempdata_MVC\\Tempdata_MVC.csproj|solutionrelative:tempdata_mvc\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\DotNet\\Tempdata_MVC\\Tempdata_MVC\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Tempdata_MVC\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\DotNet\\Tempdata_MVC\\Tempdata_MVC\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Tempdata_MVC\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T11:34:45.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\DotNet\\Tempdata_MVC\\Tempdata_MVC\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Tempdata_MVC\\Models\\Customer.cs",
+              "ToolTip": "C:\\DotNet\\Tempdata_MVC\\Tempdata_MVC\\Models\\Customer.cs",
+              "RelativeToolTip": "Tempdata_MVC\\Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T11:28:37.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\DotNet\\Tempdata_MVC\\Tempdata_MVC\\Views\\Another\\Index.cshtml",
+              "RelativeDocumentMoniker": "Tempdata_MVC\\Views\\Another\\Index.cshtml",
+              "ToolTip": "C:\\DotNet\\Tempdata_MVC\\Tempdata_MVC\\Views\\Another\\Index.cshtml",
+              "RelativeToolTip": "Tempdata_MVC\\Views\\Another\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T11:15:18.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Services.cshtml",
+              "DocumentMoniker": "C:\\DotNet\\Tempdata_MVC\\Tempdata_MVC\\Views\\Home\\Services.cshtml",
+              "RelativeDocumentMoniker": "Tempdata_MVC\\Views\\Home\\Services.cshtml",
+              "ToolTip": "C:\\DotNet\\Tempdata_MVC\\Tempdata_MVC\\Views\\Home\\Services.cshtml",
+              "RelativeToolTip": "Tempdata_MVC\\Views\\Home\\Services.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T10:59:30.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\DotNet\\Tempdata_MVC\\Tempdata_MVC\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Tempdata_MVC\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\DotNet\\Tempdata_MVC\\Tempdata_MVC\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Tempdata_MVC\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T10:55:04.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\DotNet\\Tempdata_MVC\\Tempdata_MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Tempdata_MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\DotNet\\Tempdata_MVC\\Tempdata_MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Tempdata_MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T10:54:22.826Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
