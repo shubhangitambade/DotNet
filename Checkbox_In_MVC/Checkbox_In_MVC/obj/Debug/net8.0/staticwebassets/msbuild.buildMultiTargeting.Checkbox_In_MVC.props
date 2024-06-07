@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Checkbox_In_MVC.props" />
+</Project>
