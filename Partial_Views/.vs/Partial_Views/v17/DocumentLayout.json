@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DotNet\\Partial_Views\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAC796E-B86F-46FC-A24C-4C3B169E405B}|Views_Partial\\Views_Partial.csproj|c:\\dotnet\\partial_views\\views_partial\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBAC796E-B86F-46FC-A24C-4C3B169E405B}|Views_Partial\\Views_Partial.csproj|solutionrelative:views_partial\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAC796E-B86F-46FC-A24C-4C3B169E405B}|Views_Partial\\Views_Partial.csproj|c:\\dotnet\\partial_views\\views_partial\\views\\dashboard\\piechart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBAC796E-B86F-46FC-A24C-4C3B169E405B}|Views_Partial\\Views_Partial.csproj|solutionrelative:views_partial\\views\\dashboard\\piechart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAC796E-B86F-46FC-A24C-4C3B169E405B}|Views_Partial\\Views_Partial.csproj|c:\\dotnet\\partial_views\\views_partial\\views\\dashboard\\linechart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBAC796E-B86F-46FC-A24C-4C3B169E405B}|Views_Partial\\Views_Partial.csproj|solutionrelative:views_partial\\views\\dashboard\\linechart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAC796E-B86F-46FC-A24C-4C3B169E405B}|Views_Partial\\Views_Partial.csproj|c:\\dotnet\\partial_views\\views_partial\\views\\dashboard\\barchart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBAC796E-B86F-46FC-A24C-4C3B169E405B}|Views_Partial\\Views_Partial.csproj|solutionrelative:views_partial\\views\\dashboard\\barchart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAC796E-B86F-46FC-A24C-4C3B169E405B}|Views_Partial\\Views_Partial.csproj|c:\\dotnet\\partial_views\\views_partial\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBAC796E-B86F-46FC-A24C-4C3B169E405B}|Views_Partial\\Views_Partial.csproj|solutionrelative:views_partial\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PieChart.cshtml",
+              "DocumentMoniker": "C:\\DotNet\\Partial_Views\\Views_Partial\\Views\\Dashboard\\PieChart.cshtml",
+              "RelativeDocumentMoniker": "Views_Partial\\Views\\Dashboard\\PieChart.cshtml",
+              "ToolTip": "C:\\DotNet\\Partial_Views\\Views_Partial\\Views\\Dashboard\\PieChart.cshtml",
+              "RelativeToolTip": "Views_Partial\\Views\\Dashboard\\PieChart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T11:35:44.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LineChart.cshtml",
+              "DocumentMoniker": "C:\\DotNet\\Partial_Views\\Views_Partial\\Views\\Dashboard\\LineChart.cshtml",
+              "RelativeDocumentMoniker": "Views_Partial\\Views\\Dashboard\\LineChart.cshtml",
+              "ToolTip": "C:\\DotNet\\Partial_Views\\Views_Partial\\Views\\Dashboard\\LineChart.cshtml",
+              "RelativeToolTip": "Views_Partial\\Views\\Dashboard\\LineChart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T11:35:08.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Barchart.cshtml",
+              "DocumentMoniker": "C:\\DotNet\\Partial_Views\\Views_Partial\\Views\\Dashboard\\Barchart.cshtml",
+              "RelativeDocumentMoniker": "Views_Partial\\Views\\Dashboard\\Barchart.cshtml",
+              "ToolTip": "C:\\DotNet\\Partial_Views\\Views_Partial\\Views\\Dashboard\\Barchart.cshtml",
+              "RelativeToolTip": "Views_Partial\\Views\\Dashboard\\Barchart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T11:33:58.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\DotNet\\Partial_Views\\Views_Partial\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views_Partial\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\DotNet\\Partial_Views\\Views_Partial\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Views_Partial\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T11:32:20.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\DotNet\\Partial_Views\\Views_Partial\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Views_Partial\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\DotNet\\Partial_Views\\Views_Partial\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Views_Partial\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T11:31:43.004Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Local_session_storage.props" />
+</Project>
