@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DotNet\\Charts\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E49C32CC-83A0-47C6-B5D5-6369A143BA79}|Charts_In_MVC\\Charts_In_MVC.csproj|c:\\dotnet\\charts\\charts_in_mvc\\views\\columnchart\\populationchart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E49C32CC-83A0-47C6-B5D5-6369A143BA79}|Charts_In_MVC\\Charts_In_MVC.csproj|solutionrelative:charts_in_mvc\\views\\columnchart\\populationchart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49C32CC-83A0-47C6-B5D5-6369A143BA79}|Charts_In_MVC\\Charts_In_MVC.csproj|c:\\dotnet\\charts\\charts_in_mvc\\dal\\citypopulationdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49C32CC-83A0-47C6-B5D5-6369A143BA79}|Charts_In_MVC\\Charts_In_MVC.csproj|solutionrelative:charts_in_mvc\\dal\\citypopulationdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49C32CC-83A0-47C6-B5D5-6369A143BA79}|Charts_In_MVC\\Charts_In_MVC.csproj|c:\\dotnet\\charts\\charts_in_mvc\\models\\citypopulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49C32CC-83A0-47C6-B5D5-6369A143BA79}|Charts_In_MVC\\Charts_In_MVC.csproj|solutionrelative:charts_in_mvc\\models\\citypopulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49C32CC-83A0-47C6-B5D5-6369A143BA79}|Charts_In_MVC\\Charts_In_MVC.csproj|c:\\dotnet\\charts\\charts_in_mvc\\controllers\\barchartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49C32CC-83A0-47C6-B5D5-6369A143BA79}|Charts_In_MVC\\Charts_In_MVC.csproj|solutionrelative:charts_in_mvc\\controllers\\barchartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49C32CC-83A0-47C6-B5D5-6369A143BA79}|Charts_In_MVC\\Charts_In_MVC.csproj|c:\\dotnet\\charts\\charts_in_mvc\\views\\barchart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E49C32CC-83A0-47C6-B5D5-6369A143BA79}|Charts_In_MVC\\Charts_In_MVC.csproj|solutionrelative:charts_in_mvc\\views\\barchart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49C32CC-83A0-47C6-B5D5-6369A143BA79}|Charts_In_MVC\\Charts_In_MVC.csproj|c:\\dotnet\\charts\\charts_in_mvc\\controllers\\columnchartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49C32CC-83A0-47C6-B5D5-6369A143BA79}|Charts_In_MVC\\Charts_In_MVC.csproj|solutionrelative:charts_in_mvc\\controllers\\columnchartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49C32CC-83A0-47C6-B5D5-6369A143BA79}|Charts_In_MVC\\Charts_In_MVC.csproj|c:\\dotnet\\charts\\charts_in_mvc\\models\\populationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49C32CC-83A0-47C6-B5D5-6369A143BA79}|Charts_In_MVC\\Charts_In_MVC.csproj|solutionrelative:charts_in_mvc\\models\\populationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49C32CC-83A0-47C6-B5D5-6369A143BA79}|Charts_In_MVC\\Charts_In_MVC.csproj|c:\\dotnet\\charts\\charts_in_mvc\\views\\columnchart\\columnchart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E49C32CC-83A0-47C6-B5D5-6369A143BA79}|Charts_In_MVC\\Charts_In_MVC.csproj|solutionrelative:charts_in_mvc\\views\\columnchart\\columnchart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49C32CC-83A0-47C6-B5D5-6369A143BA79}|Charts_In_MVC\\Charts_In_MVC.csproj|c:\\dotnet\\charts\\charts_in_mvc\\dal\\populationdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49C32CC-83A0-47C6-B5D5-6369A143BA79}|Charts_In_MVC\\Charts_In_MVC.csproj|solutionrelative:charts_in_mvc\\dal\\populationdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ColumnChartController.cs",
+              "DocumentMoniker": "C:\\DotNet\\Charts\\Charts_In_MVC\\Controllers\\ColumnChartController.cs",
+              "RelativeDocumentMoniker": "Charts_In_MVC\\Controllers\\ColumnChartController.cs",
+              "ToolTip": "C:\\DotNet\\Charts\\Charts_In_MVC\\Controllers\\ColumnChartController.cs",
+              "RelativeToolTip": "Charts_In_MVC\\Controllers\\ColumnChartController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T09:06:32.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BarChartController.cs",
+              "DocumentMoniker": "C:\\DotNet\\Charts\\Charts_In_MVC\\Controllers\\BarChartController.cs",
+              "RelativeDocumentMoniker": "Charts_In_MVC\\Controllers\\BarChartController.cs",
+              "ToolTip": "C:\\DotNet\\Charts\\Charts_In_MVC\\Controllers\\BarChartController.cs",
+              "RelativeToolTip": "Charts_In_MVC\\Controllers\\BarChartController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T06:50:02.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CityPopulation.cs",
+              "DocumentMoniker": "C:\\DotNet\\Charts\\Charts_In_MVC\\Models\\CityPopulation.cs",
+              "RelativeDocumentMoniker": "Charts_In_MVC\\Models\\CityPopulation.cs",
+              "ToolTip": "C:\\DotNet\\Charts\\Charts_In_MVC\\Models\\CityPopulation.cs",
+              "RelativeToolTip": "Charts_In_MVC\\Models\\CityPopulation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T06:50:33.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CityPopulationDAL.cs",
+              "DocumentMoniker": "C:\\DotNet\\Charts\\Charts_In_MVC\\DAL\\CityPopulationDAL.cs",
+              "RelativeDocumentMoniker": "Charts_In_MVC\\DAL\\CityPopulationDAL.cs",
+              "ToolTip": "C:\\DotNet\\Charts\\Charts_In_MVC\\DAL\\CityPopulationDAL.cs",
+              "RelativeToolTip": "Charts_In_MVC\\DAL\\CityPopulationDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T06:51:18.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PopulationChart.cshtml",
+              "DocumentMoniker": "C:\\DotNet\\Charts\\Charts_In_MVC\\Views\\ColumnChart\\PopulationChart.cshtml",
+              "RelativeDocumentMoniker": "Charts_In_MVC\\Views\\ColumnChart\\PopulationChart.cshtml",
+              "ToolTip": "C:\\DotNet\\Charts\\Charts_In_MVC\\Views\\ColumnChart\\PopulationChart.cshtml",
+              "RelativeToolTip": "Charts_In_MVC\\Views\\ColumnChart\\PopulationChart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T07:01:18.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\DotNet\\Charts\\Charts_In_MVC\\Views\\BarChart\\Index.cshtml",
+              "RelativeDocumentMoniker": "Charts_In_MVC\\Views\\BarChart\\Index.cshtml",
+              "ToolTip": "C:\\DotNet\\Charts\\Charts_In_MVC\\Views\\BarChart\\Index.cshtml",
+              "RelativeToolTip": "Charts_In_MVC\\Views\\BarChart\\Index.cshtml",
+              "ViewState": "AQIAABcAAAAAAAAAAAAswCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T06:55:36.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PopulationModel.cs",
+              "DocumentMoniker": "C:\\DotNet\\Charts\\Charts_In_MVC\\Models\\PopulationModel.cs",
+              "RelativeDocumentMoniker": "Charts_In_MVC\\Models\\PopulationModel.cs",
+              "ToolTip": "C:\\DotNet\\Charts\\Charts_In_MVC\\Models\\PopulationModel.cs",
+              "RelativeToolTip": "Charts_In_MVC\\Models\\PopulationModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAUwBAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T06:56:34.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ColumnChart.cshtml",
+              "DocumentMoniker": "C:\\DotNet\\Charts\\Charts_In_MVC\\Views\\ColumnChart\\ColumnChart.cshtml",
+              "RelativeDocumentMoniker": "Charts_In_MVC\\Views\\ColumnChart\\ColumnChart.cshtml",
+              "ToolTip": "C:\\DotNet\\Charts\\Charts_In_MVC\\Views\\ColumnChart\\ColumnChart.cshtml",
+              "RelativeToolTip": "Charts_In_MVC\\Views\\ColumnChart\\ColumnChart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T06:56:19.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PopulationDAL.cs",
+              "DocumentMoniker": "C:\\DotNet\\Charts\\Charts_In_MVC\\DAL\\PopulationDAL.cs",
+              "RelativeDocumentMoniker": "Charts_In_MVC\\DAL\\PopulationDAL.cs",
+              "ToolTip": "C:\\DotNet\\Charts\\Charts_In_MVC\\DAL\\PopulationDAL.cs",
+              "RelativeToolTip": "Charts_In_MVC\\DAL\\PopulationDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T06:56:56.2Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

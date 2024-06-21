@@ -1,0 +1,39 @@
+﻿﻿@{
+	Layout = null;
+}
+ 
+<!DOCTYPE HTML>
+<html>
+<head>
+<script>
+window.onload = function () {
+ 
+var chart = new CanvasJS.Chart("chartContainer", {
+	animationEnabled: false,
+	title: {
+		text: "Citywise Population Chart"
+	},
+	subtitles: [{
+		text: "from 1990 to 2020"
+	}],
+	axisY: {
+		title: "City",
+		indexLabel: "{cityName}",
+		gridThickness: 0
+	},
+	data: [{
+		type: "bar",
+		indexLabel: "{populationYear2020,populationYear2010,populationYear2000,populationYear1990}",
+		dataPoints: @Html.Raw(ViewBag.PopulationChart)
+	}]
+});
+chart.render();
+ 
+}
+</script>
+</head>
+<body>
+<div id="chartContainer" style="height: 370px; width: 100%;"></div>
+<script src="https://cdn.canvasjs.com/canvasjs.min.js"></script>	
+</body>
+</html>                

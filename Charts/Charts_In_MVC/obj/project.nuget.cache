@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MTUrlhCYV6sXXGXgvJ7d7oROu2sD6IkoUpnyGRwqNGiOWW/jzVESKYY1ybDYbA0px4kqcXqnPsprFWVbsEhlmQ==",
+  "success": true,
+  "projectFilePath": "C:\\DotNet\\Charts\\Charts_In_MVC\\Charts_In_MVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TLF03\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
