@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "wUl6jQEc15vzvtuW4XYNEfb4HkM1FwveDnuc+7/Tu5Nv1+W5JvCRxqAoIoh9Lq//fWv4lZFEN+OilAmpB77rIw==",
+  "success": true,
+  "projectFilePath": "C:\\DotNet\\JWT_Studio\\RoleBasedSecureApp\\RoleBasedSecureApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TLF03\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.6.2\\microsoft.identitymodel.abstractions.7.6.2.nupkg.sha512",
+    "C:\\Users\\TLF03\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.6.2\\microsoft.identitymodel.jsonwebtokens.7.6.2.nupkg.sha512",
+    "C:\\Users\\TLF03\\.nuget\\packages\\microsoft.identitymodel.logging\\7.6.2\\microsoft.identitymodel.logging.7.6.2.nupkg.sha512",
+    "C:\\Users\\TLF03\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.6.2\\microsoft.identitymodel.tokens.7.6.2.nupkg.sha512",
+    "C:\\Users\\TLF03\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.6.2\\system.identitymodel.tokens.jwt.7.6.2.nupkg.sha512"
+  ],
+  "logs": []
+}

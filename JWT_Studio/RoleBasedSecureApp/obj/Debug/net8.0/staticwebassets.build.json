@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "68ikofWaUI5DIbu7DRlqbd+OlLvWJxpLHi0Cyzj27KY=",
+  "Source": "RoleBasedSecureApp",
+  "BasePath": "_content/RoleBasedSecureApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
