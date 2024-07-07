@@ -3,10 +3,8 @@ $(document).ready(function () {
     var userId = parseInt(sessionStorage.getItem("userid"));
         console.log("User Id = " +userId);
         //$("#txtUserId").text = userId;
-        document.getElementById("txtUserId").innerHTML = userId;
+        document.getElementById("uid").innerHTML = userId;
 
-       
-    
     $("#btnShow").click(function () {
        // var userId = $("#txtUserId").val();
       
