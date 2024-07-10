@@ -1,14 +1,13 @@
 $(document).ready(function () {
-
+console.log("Inside userProfile.js");
     var userId = parseInt(sessionStorage.getItem("userid"));
         console.log("User Id = " +userId);
         //$("#txtUserId").text = userId;
-        document.getElementById("uid").innerHTML = userId;     
-    
+        document.getElementById("uid").innerHTML = userId;
+
     $("#btnShow").click(function () {
        // var userId = $("#txtUserId").val();
-       window.open('AboutUs.html', '_self');
-
+      
         $.ajax({
             url: "http://localhost:5000/api/users/userdetails/" + userId,
             type: 'GET',
@@ -32,9 +31,4 @@ $(document).ready(function () {
             }
         });
     });
-
-    $( "#dialog" ).dialog({ autoOpen: false });
-    $( "#btnExample" ).click(function() {
-    $( "#dialog" ).dialog( "open" );
-});
 });

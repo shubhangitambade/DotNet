@@ -1,0 +1,173 @@
+<!-- url: 'http://localhost:5053/api/applicant/status' + "/" + loantype , -->
+ 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Loan Applicants According to Loan status</title>
+  <base href="/">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- <link rel="icon" type="image/x-icon" href="favicon.ico"> -->
+
+  <!--<script src="jquery.min.js"></script> -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+   <script type="text/javascript" src="D:/DotNet/CommonServices/CommonServices/AjaxUI/HtmlHelper/htmlHelper.js"></script>
+
+  <script>
+    var status1 = "approved";
+    var status2 = "rejected";
+    var responsedata = null;
+    var loanData = null;
+    var loantype = null;
+    var details= null;
+    var parameter = null;
+    
+    //call lotype API
+    $(document).ready(function() {
+                                $.ajax({
+                                        url: 'http://localhost:5002/api/loanstypes',
+                                        type: 'GET',
+                                        contentType: 'application/json',
+                                        success: function (response) {
+
+                                        
+                                            console.log('Got the Data :', response);
+                                            lontype = response;
+                                        },
+
+                                        error: function (xhr, status, error) {
+                                        // Handle errors
+                                            console.error(status + ': ' + error);
+                                        }
+
+                                });
+                 })
+           
+   
+     function updateLoanAndLoanstatus(parameter,details,loanData)
+        {
+            console.log("loanData : " , loanData); 
+            console.log("details : " , details);
+            details.loanStatus = parameter;
+
+           // console.log("details status  : " ,details.status);
+            var applcationid = $('#applicationid').val();
+
+            $.ajax({
+                                url: 'http://localhost:5002/api/application' + "/" +  applcationid,
+                                type: 'PUT',
+                                contentType: 'application/json',
+                                data: JSON.stringify(details),
+                                success: function (response) {
+                                    console.log('The Data is updated :', response);
+                                    if(response ==true)
+                                    {
+                                        //displayData(details);
+                                        alert("Data updatedet Successfully ...");
+                                    }
+                            
+                                },
+                                error: function (xhr, status, error) {
+                                // Handle errors
+                                    console.error(status + ': ' + error);
+                                }
+
+                        });
+                        if(details.loanStatus=="approved"){
+                        $.ajax({
+                                url: 'http://localhost:5002/api/loans',
+                                type: 'POST',
+                                contentType: 'application/json',
+                                data: JSON.stringify(loanData),
+                                success: function (response) {
+                                    console.log('The Data is inserted in loan  :', response);
+                                    if(response ==true)
+                                    {
+                                        //displayData(details);
+                                        alert("Data inserted Successfully ...");
+                                    }
+                            
+                                },
+                                error: function (xhr, status, error) {
+                                // Handle errors
+                                    console.error(status + ': ' + error);
+                                }
+
+                        });
+                        }
+    
+        }
+
+     function getloanapplicants() {
+
+        var applicationid = $('#applicationid').val();
+        
+        console.log("applicationid : " + applicationid);
+      
+       
+                         $.ajax({
+                                url: 'http://localhost:5002/api/application' + "/" + applicationid ,
+                                type: 'GET',
+                                contentType: 'application/json',
+                                success: function (data) {
+
+                                   
+                                    console.log('Got the Data :', data);
+                                    details = data;
+                                    alert("Data get Successfully ...");
+                                   
+                                    var loatypeid = data.loanTypeId;
+                                    var irate = lontype.find((loantype)=> loantype.loanTypeId == loatypeid).intrestRate
+                                    var durtioninmonths = data.loanDuration * 12;
+                                    const interest = (data.loanAmount * (irate * 0.01)) / durtioninmonths;
+                                    var emiamount = ((data.loanAmount / durtioninmonths) + irate).toFixed(2);
+                                    console.log("EMI =",emiamount);
+
+                                    displayData(data,emiamount);
+                                    
+                                    var sanctionedate = new Date();
+                                    var formatdate =  sanctionedate.toISOString().slice(0,10);
+                                    //var emiday= 10;
+                                    var acctId = data.applicationId;
+
+                                    loanData = {
+                                                
+                                                "loanSanctionDate": formatdate, 
+                                                //"eMIDay" :emiday,
+                                                "eMIAmount":emiamount,
+                                                "applicationId":acctId
+                                            };
+                                    console.log("loanData = ", loanData);
+                                    
+                                },
+
+                                error: function (xhr, status, error) {
+                                // Handle errors
+                                    console.error(status + ': ' + error);
+                                }
+
+                        });
+};
+    
+</script>
+
+</head>
+
+<body>
+<div>
+
+    <h1>Loan Applicant  according to Loan Application Id</h1>
+    <br></br>
+    <label>Enter Loan Applicant Id: </label>
+    <input type="number" id="applicationid" name="applicationid" placeholder="Enter Application Id "  /> 
+    
+    <br></br>
+    <button onclick="getloanapplicants()">Get Loan Applicants</button>
+    <br/><br/><hr/>
+</div>
+<div id="dataDisplay"></div>
+<br/><br/>
+<form id="loan_details"></form>
+<div id="displayUpdateddata"></div>
+</body>
